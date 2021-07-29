@@ -7,8 +7,10 @@ namespace ToBeTested
         static string name;
         static void Main(string[] args)
         {
+            Program p = new Program();
             Console.WriteLine("Enter the name: ");
             name = Console.ReadLine();
+            p.SayHello(name);
         }
         public int Add(int x, int y)
         {

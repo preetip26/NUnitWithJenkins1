@@ -1,0 +1,15 @@
+P:\LTI\Training\Devops - Git\ToBeTested\bin\Debug\net5.0\ToBeTested.exe
+P:\LTI\Training\Devops - Git\ToBeTested\bin\Debug\net5.0\ToBeTested.deps.json
+P:\LTI\Training\Devops - Git\ToBeTested\bin\Debug\net5.0\ToBeTested.runtimeconfig.json
+P:\LTI\Training\Devops - Git\ToBeTested\bin\Debug\net5.0\ToBeTested.runtimeconfig.dev.json
+P:\LTI\Training\Devops - Git\ToBeTested\bin\Debug\net5.0\ToBeTested.dll
+P:\LTI\Training\Devops - Git\ToBeTested\bin\Debug\net5.0\ref\ToBeTested.dll
+P:\LTI\Training\Devops - Git\ToBeTested\bin\Debug\net5.0\ToBeTested.pdb
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ToBeTested.GeneratedMSBuildEditorConfig.editorconfig
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ToBeTested.AssemblyInfoInputs.cache
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ToBeTested.AssemblyInfo.cs
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ToBeTested.csproj.CoreCompileInputs.cache
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ToBeTested.dll
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ref\ToBeTested.dll
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ToBeTested.pdb
+P:\LTI\Training\Devops - Git\ToBeTested\obj\Debug\net5.0\ToBeTested.genruntimeconfig.cache
